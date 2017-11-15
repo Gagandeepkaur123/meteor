@@ -66,3 +66,7 @@ window.addEventListener('load',function(){
     })
   });
 });
+function myFunction() {
+    alert("You are now a listener");
+    window.location.href = "http://localhost/x_material_kit_free_v1.1.1/";
+}
