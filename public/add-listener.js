@@ -67,6 +67,6 @@ window.addEventListener('load',function(){
   });
 });
 function myFunction() {
-    alert("You are now a listener");
-    window.location.href = "http://localhost/x_material_kit_free_v1.1.1/";
+    alert("You are now a listener. We will provide you with our chatting system from where you connect with our patients. Note down this address and keep available here. email: gk12995127@gmail.com and password: 123456");
+    window.location.href = "http://localhost:3008";
 }
